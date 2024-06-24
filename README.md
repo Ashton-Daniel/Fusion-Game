@@ -15,10 +15,10 @@ Connect 4 is a 2-player board game in which players place pieces into cells sepa
 The features that set this game apart from the regular Connect 4 game will be discussed in this section.
 
 ### Board Setup
-
+My Fusion Game allows the user to choose how large the board will be, as well as how many in a row a player needs in order to win the game. This allows for interesting variations such as an 8x8 board in which the players need to get 5 in a row in order to win. If you would like to play with a regular board setup, simply press enter 3 times to skip past the board setup.
 
 ### Tetris
-
+The Tetris Fusion functionality of my game removes all pieces on the bottom row of the board when the entire row is filled. This adds additional complexity to the game, which can add to the enjoyment of the players.
 
 ## Author
 Ashton Daniel
